@@ -1,0 +1,42 @@
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Missions.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.exe.config
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.application
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.application
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.exe.config
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.exe.manifest
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.application
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Train Bot.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.csprojResolveAssemblyReference.cache
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Missions.Properties.Resources.resources
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.csproj.GenerateResource.Cache
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.exe.manifest
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Train Bot.application
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\bin\Debug\Train Bot.exe.config
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\obj\Debug\Train Bot.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\obj\Debug\Train Bot.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\bin\Debug\Train Bot.exe.manifest
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\bin\Debug\Train Bot.application
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\bin\Debug\Train Bot.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\bin\Debug\Train Bot.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\obj\Debug\Train Bot.csprojResolveAssemblyReference.cache
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\obj\Debug\Missions.Properties.Resources.resources
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\obj\Debug\Train Bot.csproj.GenerateResource.Cache
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\obj\Debug\Train Bot.exe.manifest
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Val 1.000\Mission Bot\LiC Decoder\obj\Debug\Train Bot.application
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Fight test\Fight Test\LiC Decoder\bin\Debug\Train Bot.exe.config
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Fight test\Fight Test\LiC Decoder\obj\Debug\Train Bot.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\Fight test\Fight Test\LiC Decoder\obj\Debug\Train Bot.pdb

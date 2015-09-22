@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Release\Train Bot.exe.config
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Release\Train Bot.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Release\Train Bot.application
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Release\Train Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Release\Train Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Release\Train Bot.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Release\LiC_Decoder.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Release\Missions.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Release\Train Bot.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Release\Train Bot.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Release\Train Bot.application
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Release\Train Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Release\Train Bot.pdb

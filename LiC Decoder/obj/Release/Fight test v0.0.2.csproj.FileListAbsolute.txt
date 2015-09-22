@@ -1,0 +1,13 @@
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Release\Kill bot.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Release\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Release\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Release\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Release\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Release\Fight test v0.0.2.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Release\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Release\Missions.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Release\Fight test v0.0.2.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Release\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Release\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Release\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Release\Kill bot.pdb

@@ -1,0 +1,26 @@
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Debug\LiC_Decoder.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Debug\LiC Decoder.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Debug\LiC Decoder.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\LiC Decoder\LiC Decoder\bin\Debug\Flamingo Poker.exe.config
+D:\Documents\Visual Studio 2012\Projects\LiC Decoder\LiC Decoder\bin\Debug\Flamingo Poker.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\LiC Decoder\LiC Decoder\bin\Debug\Flamingo Poker.application
+D:\Documents\Visual Studio 2012\Projects\LiC Decoder\LiC Decoder\bin\Debug\Flamingo Poker.exe
+D:\Documents\Visual Studio 2012\Projects\LiC Decoder\LiC Decoder\bin\Debug\Flamingo Poker.pdb
+D:\Documents\Visual Studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Debug\Flamingo Poker.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Debug\Flamingo Poker.application
+D:\Documents\Visual Studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Debug\Flamingo Poker.exe
+D:\Documents\Visual Studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Debug\Flamingo Poker.pdb
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Mission Bot.exe.config
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Mission Bot.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Mission Bot.application
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Mission Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\bin\Debug\Mission Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\LiC Decoder.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Missions.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\LiC Decoder.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Mission Bot.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Mission Bot.application
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Mission Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Mission Bot\LiC Decoder\obj\Debug\Mission Bot.pdb

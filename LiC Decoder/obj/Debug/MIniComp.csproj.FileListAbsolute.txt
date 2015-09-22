@@ -1,0 +1,289 @@
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\MIniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\MIniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\MiniComp.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\MiniComp.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\MiniComp.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\MiniComp.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\MiniComp.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\MiniComp.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\MiniComp.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\MiniComp.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\MiniComp.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\MiniComp.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp\MiniComp\LiC Decoder\obj\Debug\MiniComp.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\obj\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\obj\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\obj\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save\MiniComp\LiC Decoder\obj\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\obj\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\obj\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\obj\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder\MiniComp\LiC Decoder\obj\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\obj\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\obj\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\obj\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj folder save - adj load folder - Single txt file - textSave\MiniComp\LiC Decoder\obj\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\obj\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\obj\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\obj\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj text save- Single txt file - kill count - revive delay - name check\MiniComp\LiC Decoder\obj\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save- Single txt file - kill count - revive delay - name - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\obj\Debug\MiniComp.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\30Kill.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\obj\Debug\30Kill.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Minicomp - 32 codes - adj save file - kill count - revive - avi , title -skip heal - Copy\MiniComp\LiC Decoder\bin\Debug\32Beast.exe.config

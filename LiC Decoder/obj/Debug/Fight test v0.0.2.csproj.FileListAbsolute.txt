@@ -1,0 +1,101 @@
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Debug\Missions.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.2\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\obj\Debug\Missions.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Missions.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Missions.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 - Copy - Copy\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\GDataDB.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\GDataDB.Linq.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Client.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Documents.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csprojResolveAssemblyReference.cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\obj\Debug\LiC_Decoder.Form1.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\obj\Debug\Missions.Form3.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\obj\Debug\Fight test v0.0.2.csproj.GenerateResource.Cache
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe.manifest
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.application
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL\Fight Test v0.0.2\LiC Decoder\obj\Debug\killbot.Properties.Resources.resources
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\bin\Debug\Kill bot.exe.config
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.exe
+C:\Users\ValOsip\Documents\Visual Studio 2012\Projects\Fight test 0.0.3 PERSONAL - Minicomp\Fight Test v0.0.2\LiC Decoder\obj\Debug\Kill bot.pdb

@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="32Beast.exe" version="1.0.0.2" publicKeyToken="e103c9de4d94e0ca" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="beast.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="32Beast" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="32Beast.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="32Beast.exe" size="259072">
+      <assemblyIdentity name="32Beast" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WxBLEDvXb3TV/A4W02bF2fGprWuMsvvsGTQPYF/oyDg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GDataDB.dll" size="12800">
+      <assemblyIdentity name="GDataDB" version="0.4.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>rWqT44CpkVXf2bMkBCdb3pz8l9oLupbRXrI7pzNSJGE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GDataDB.Linq.dll" size="16896">
+      <assemblyIdentity name="GDataDB.Linq" version="0.4.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VaSPeqrwyJWTTuVMhWdW8N/Fxbdd6G1zcuPsxp5Ct54=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.GData.AccessControl.dll" size="24576">
+      <assemblyIdentity name="Google.GData.AccessControl" version="2.1.0.0" publicKeyToken="B4B8EB9A7AFC8328" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ynsLgntLc0VR8kiRT0GQIIb7TI5OcIAtmvOS0CvvYyw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.GData.Client.dll" size="212992">
+      <assemblyIdentity name="Google.GData.Client" version="2.1.0.0" publicKeyToken="04A59CA9B0273830" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Xh5RfZyb7Fpdx+omRIAWWN5nStYz4uDHrmjkWD6JJKc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.GData.Documents.dll" size="53248">
+      <assemblyIdentity name="Google.GData.Documents" version="2.1.0.0" publicKeyToken="E4DAAAD656F19BB9" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9F7jgop6sbxV27WekL71zUR8H97s9rt5aWXMrLJfwho=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.GData.Extensions.dll" size="90112">
+      <assemblyIdentity name="Google.GData.Extensions" version="2.1.0.0" publicKeyToken="0B4C5DF2EBF20876" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gh/jkx2NveHdK9D8qnJLMVy9z81Losq/pFWDIkGPPtY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.GData.Spreadsheets.dll" size="40960">
+      <assemblyIdentity name="Google.GData.Spreadsheets" version="2.1.0.0" publicKeyToken="3F77FEB76FF0D9A1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ZlzMSx6g6prflIAkC02POcvhen0zkhHpaCi+EJSrPeQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="354304">
+      <assemblyIdentity name="Newtonsoft.Json" version="4.0.8.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zNSxZ6bgaXLQPq0Fo3DEKlIXhrbhSOS1dzf3nnXpv7M=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1 Normal Train.ico" size="86358">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Jv5tbJw25oXh6JbjIUQk9eFplSc1m8PAvHe/YY7f0R4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="32Beast.exe.config" size="531">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZHSrnEc51TyHsByfuIrKVGi7bt6vsNciprwHzsqlZTw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="beast.ico" size="99678">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>IbVmf24oPafv+Z0HyHax6zMTQF/PETM4sETRH/5bDpc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="minicompicon.ico" size="24870">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sYtfH5ZArWyH+mVWlbWVriLqueHmOt1d7QDf6zYMEMI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Val-THINK\Val" issuerKeyHash="af6082e34ae3f7af9134276b8cda558ff5150f41" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Q8s723TRWvmhZq00/JTn+7XZ5YV6N8OZ4BHaKHZ6nkE=</DigestValue></Reference></SignedInfo><SignatureValue>Zvn9F0sYRHf9XkTNtWSFxmo+JVKn0l/tOuMFlMQhZUR8wturgoZRWS4yxhR6W0zLlNKrpxeN3Al66kRM7vcBzFfxnZy7bpo+aLffpVs6Q4SIjB6rXv2THFvo7BWGxYRCnKiGIl/nSWPyn0RJ7UzNMW0M9xFICq+Lc5VRy3KY+ZM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uBIcYIc9BcfNc6VERE2gMxbgqcvtQNMTQpEd0kXkbLGPo8VhFe41Bi9X8uzjPUNoWepeRershcaGmIL9CCdlijF4JVdc2W91iKdLBbNyh+x9CN9nwgkOh12TEi25icsvk11hDvAczP++j+quQ+FAXRPbh8UMb/2o8ywdlEv2uzc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="419e7a7628da11e099c3377a85e5d9b5fbe794fc34ad66a1f95ad174db3bcb43" Description="" Url=""><as:assemblyIdentity name="32Beast.exe" version="1.0.0.2" publicKeyToken="e103c9de4d94e0ca" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Val-THINK\Val</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>WStb6EPLt/2T4GfuvSI9cLp3gLvEsrWPCR0m4oDosSk=</DigestValue></Reference></SignedInfo><SignatureValue>pLZmYWoRuqR+aFIvgLOeW3IoIpEnaelBRKQ40W5d771m/V+iZzlEepC29nVNvAqin+ck5BDm+pg7xfSZP5TMww2q6LD+UIUwgWWG4yi6uTL7bmcjG3cFJ/TZLh8u0YGljtyw5ZUMzn27E2gxY4brAtZ4GrzkET4uH+5Qr1v1Ahs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uBIcYIc9BcfNc6VERE2gMxbgqcvtQNMTQpEd0kXkbLGPo8VhFe41Bi9X8uzjPUNoWepeRershcaGmIL9CCdlijF4JVdc2W91iKdLBbNyh+x9CN9nwgkOh12TEi25icsvk11hDvAczP++j+quQ+FAXRPbh8UMb/2o8ywdlEv2uzc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQKSdI6KFiZZ9Gk2wuzvySnzANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAVgBhAGwALQBUAEgASQBOAEsAXABWAGEAbDAeFw0xNDA5MTIwMDIxMTFaFw0xNTA5MTIwNjIxMTFaMCUxIzAhBgNVBAMeGgBWAGEAbAAtAFQASABJAE4ASwBcAFYAYQBsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4Ehxghz0Fx81zpURETaAzFuCpy+1A0xNCkR3SReRssY+jxWEV7jUGL1fy7OM9Q2hZ6l5F6uyFxoaYgv0IJ2WKMXglV1zZb3WIp0sFs3KH7H0I32fCCQ6HXZMSLbmJyy+TXWEO8BzM/76P6q5D4UBdE9uHxQxv/ajzLB2US/a7NwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBABZN8rzHFLu7hfr3LnFTQWgtzvtNAikK/gHTCJSEGF2OD+SdPf1cWMi9trwRYGY0X+y8uopmUvJQZ8vtyjWf4N5G6HcIfvley2VzcaHrpoYoAJ4oLzMzCRx/QW607CiNHuNwBpqiTu2WR9T2uG1K29r099HOCldRWXUMT96EmQcR</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

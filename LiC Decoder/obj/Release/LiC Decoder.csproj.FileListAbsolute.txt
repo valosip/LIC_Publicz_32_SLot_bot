@@ -1,0 +1,9 @@
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\bin\Release\LiC Decoder.exe.config
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\bin\Release\LiC Decoder.exe
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\bin\Release\LiC Decoder.pdb
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Release\LiC_Decoder.Form1.resources
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Release\LiC_Decoder.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Release\LiC Decoder.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Release\LiC Decoder.exe
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Release\LiC Decoder.pdb
+d:\documents\visual studio 2012\Projects\LiC Decoder\LiC Decoder\obj\Release\LiC Decoder.csprojResolveAssemblyReference.cache

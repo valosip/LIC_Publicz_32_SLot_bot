@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\lic\publicReleases\32Beast\|C:\lic\publicReleases\Kush\32Beast\|C:\lic\publicReleases\30kill\|C:\lic\publicReleases\MiniComp\|C:\lic\publicReleases\3killbot\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://www.licguides.com/32bst/|http://www.licguides.com/32beast/|http://www.licguides.com/mncmp/|http://www.licguides.com/kllbt/|http://localhost/Kill bot/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+</Project>
